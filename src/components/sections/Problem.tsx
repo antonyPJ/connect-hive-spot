@@ -4,14 +4,14 @@ export const Problem = () => {
   const problems = [
     {
       icon: AlertCircle,
-      stat: "52 milhões",
+      stat: "20,5 milhões",
       description: "de brasileiros sem acesso à internet domiciliar",
       color: "text-secondary"
     },
     {
       icon: TrendingDown,
-      stat: "73%",
-      description: "das oportunidades de emprego exigem habilidades digitais básicas",
+      stat: "30%",
+      description: "da população brasileira possui habilidades digitais básicas",
       color: "text-primary"
     },
     {

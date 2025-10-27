@@ -52,13 +52,13 @@ export const Hero = () => {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-8 mt-16 animate-scale-in">
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/15 transition-all">
               <Users className="h-10 w-10 text-accent mb-3 mx-auto" />
-              <div className="text-3xl sm:text-4xl font-bold text-white mb-2">52 milhões</div>
+              <div className="text-3xl sm:text-4xl font-bold text-white mb-2">20,5 milhões</div>
               <div className="text-white/80 text-sm">de brasileiros sem internet</div>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/15 transition-all">
               <Wifi className="h-10 w-10 text-secondary mb-3 mx-auto" />
-              <div className="text-3xl sm:text-4xl font-bold text-white mb-2">73%</div>
-              <div className="text-white/80 text-sm">das vagas exigem habilidades digitais</div>
+              <div className="text-3xl sm:text-4xl font-bold text-white mb-2">30%</div>
+              <div className="text-white/80 text-sm">da população com habilidades digitais</div>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/15 transition-all">
               <GraduationCap className="h-10 w-10 text-accent mb-3 mx-auto" />
